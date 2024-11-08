@@ -1,9 +1,14 @@
 body{
     color: red ;
     background: rgb(41, 5, 241);
+}
     
-    }
-   A vida é cheia de pequenas surpresas .tit{
+.tit{ 
         color: rgb(252, 252, 252) ;
         background: rgb(255, 33, 4);
-    }
+}
+.imagens{
+
+
+    text-align: center;
+}
